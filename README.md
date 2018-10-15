@@ -1,5 +1,5 @@
 # Música 8D
-Este script tem o objetivo em deixar a música naquele famoso estilo 8D (que nada mais é que simular intercalando entre os canais auditivos, coisa boba), por enquanto o script está o mais básico possível e tentarei implementar mais coisas se possível, e quem puder e quiser ajudar o projeto será muito bem-vindo
+Este script tem o objetivo em deixar a música naquele famoso estilo 8D (que nada mais é que ficar intercalando entre o canal esquerdo e direito, coisa boba), por enquanto o script está o mais básico possível e tentarei implementar mais coisas se possível, e quem puder e quiser ajudar o projeto será muito bem-vindo
 
 ## Uso
 ``python music.py [Arquivo MP3]``
